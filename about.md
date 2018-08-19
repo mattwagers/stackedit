@@ -5,8 +5,7 @@ This text has been compiled for use in the Linguistic Department's course _Langu
 - Jim McCloskey
 - Matt Wagers
 
-There are many excell
-
+LING80D was historically titled "Language and Mind: Chomsky's Program." While there are many excellent separate treatments of the topics we cover in LING80D, we could find no text that binds them together at the right level, suitable fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzE4MjMxOV19
+eyJoaXN0b3J5IjpbMjEwODc5MTIwOV19
 -->
