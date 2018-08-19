@@ -1,7 +1,7 @@
 
-# Chapter 1
+# Language as Biology
 
-## Language as Biology
+## 
 
 ### Resilience
 
@@ -11,15 +11,17 @@
 
 ## What is a mental grammar
 
-### Key linguistics domains
+### Examples of linguistic knowledge
 
 ### Prescriptivism
 
-### Language Prejudice
+### Language prejudice
 
-## LAn
+## Other approaches to studying language
+
+## Other approaches to defi mental grammar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDg3NjQ0MF19
+eyJoaXN0b3J5IjpbLTEyNTAwMTI3NTFdfQ==
 -->
