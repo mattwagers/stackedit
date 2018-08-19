@@ -10,9 +10,6 @@ Lenneberg
 
 #### To styles of child-rearing
 
-[foo.jpg](Alt-text)
----
-
 ### A critical period
 
 ### Specifies-specificity
@@ -31,5 +28,5 @@ Lenneberg
 
 ## Other approaches to defining mental grammar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjA1NjAwNF19
+eyJoaXN0b3J5IjpbMTI0NzA1NTg4NF19
 -->
