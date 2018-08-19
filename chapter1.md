@@ -1,13 +1,16 @@
 
 # Language as Biology
 
-## 
+Lenneberg
+
 
 ### Resilience
 
-To neurological diversity
+#### To neurological diversity
 
-To styles of child-rearing
+#### To styles of child-rearing
+
+### A critical period
 
 ### Specifies-specificity
 
@@ -26,5 +29,5 @@ To styles of child-rearing
 ## Other approaches to defining mental grammar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ2MDU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTIxMzY1NTI2NDZdfQ==
 -->
