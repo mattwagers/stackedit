@@ -5,6 +5,10 @@
 
 ### Resilience
 
+To neurological diversity
+
+To styles of child-rearing
+
 ### Specifies-specificity
 
 ### Universality & diversity
@@ -19,9 +23,8 @@
 
 ## Other approaches to studying language
 
-## Other approaches to defi mental grammar
+## Other approaches to defining mental grammar
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAwMTI3NTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ2MDU3ODRdfQ==
 -->
