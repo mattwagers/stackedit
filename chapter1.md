@@ -10,6 +10,8 @@ Lenneberg
 
 #### To styles of child-rearing
 
+---
+
 ### A critical period
 
 ### Specifies-specificity
@@ -27,7 +29,6 @@ Lenneberg
 ## Other approaches to studying language
 
 ## Other approaches to defining mental grammar
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY1NTI2NDZdfQ==
+eyJoaXN0b3J5IjpbLTI0MTg4Mjk1M119
 -->
