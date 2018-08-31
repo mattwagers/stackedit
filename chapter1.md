@@ -20,7 +20,7 @@ This sketch of how a child learns words, and even larger expressions like senten
 
 How _accurate_ do you you think Bloomfield's account could be? How representative or typical is this interaction between a child and their parent or caretaker? 
 
-The scene that Bloomfield is imagingin, it turns out, is a highly culturally, and socio-economically, specific 
+The scene that Bloomfield is imagining, it turns out, is a highly culturally and socio-economically specific one.
 
  is that what we call learning is really the shaping of our responses 
 
@@ -46,7 +46,7 @@ o explain human and animal behavior in terms of external physical stimuli, respo
 
 ## Other approaches to defining mental grammar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTEyNTYyOCwtMzkyMTg3NzMwLDQxNj
+eyJoaXN0b3J5IjpbLTEwMjY1ODc2MiwtMzkyMTg3NzMwLDQxNj
 I5MDk2MCwtMjE0MDQxOTExLDIxMjkzNTM1MjAsMTI0NzA1NTg4
 NF19
 -->
