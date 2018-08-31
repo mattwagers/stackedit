@@ -6,6 +6,8 @@ Lenneberg
 
 ### Resilience
 
+Language is a remarkably *resilient* trait
+
 #### To neurological diversity
 
 #### To styles of child-rearing
@@ -16,7 +18,7 @@ The linguist Leonard Bloomfield sketched the following account of learning in th
 
 This sketch of how a child learns words, and larger expressions, is a thoroughly-going **behaviorist** account. We will spend some time learning about behaviorism later in the course -- and particularly how early developments in modern linguistics upset it as the dominant paradigm in American psychology. But a key tenet is plain enough in Bloomfield: particular verbal behaviors are shaped via reward and punishment (bringing the doll $\checkmark$ a reward!; but a disappointing answer? $\times$ a punishment). The child will develop a habit of verbal behavior that elicits reward.
 
-How _accurate_ do you you think Bloomfield's account could be?
+How _accurate_ do you you think Bloomfield's account could be? How representative or typical is this interaction between a child and their parent or caretaker? 
 
  is that what we call learning is really the shaping of our responses 
 
@@ -42,6 +44,7 @@ o explain human and animal behavior in terms of external physical stimuli, respo
 
 ## Other approaches to defining mental grammar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjE4NzczMCw0MTYyOTA5NjAsLTIxND
-A0MTkxMSwyMTI5MzUzNTIwLDEyNDcwNTU4ODRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjc5MzU4MjAsLTM5MjE4NzczMCw0MT
+YyOTA5NjAsLTIxNDA0MTkxMSwyMTI5MzUzNTIwLDEyNDcwNTU4
+ODRdfQ==
 -->
