@@ -14,7 +14,7 @@ The linguist Leonard Bloomfield sketched the following account of learning in th
 
 >The habit of saying `da` at the sight of a doll gives rise to further habits. Suppose, for instance, that day affer day the child is given his doll (and says `da da da`) immediately after his bath. He has the habit of saying `da da` after his bath; that is, if one day the mother forgets to give him the doll, he may nevertheless cry `da da da` after his bath ... If he says `da da` well enough his elders understand him; that is, they give him his doll. ... In short, his more perfect attempts at speech are likely to be fortified by repetition, and his failures to be wiped out in confusion. At a much later stage, if he says, `Daddy bringed it`, he merely gets a disappointing answer such `No! You must say Daddy brought it`. But if he says `Daddy brought it`, he is likely to hear the form over again: `Yes, Daddy brought it`, and to get a favorable practical response.
 
-This view on how a child might learn words or larger expressions is a thoroughly-going **behaviorist** account:
+This sketch of how a child learns words, and larger expressions, is a thoroughly-going **behaviorist** account. We will spend some time learning about the behaviorism later in the course -- and the role in which the development of lingu
 
 *[behaviorist]: Behaviorism is a way of doing psychology in which animal or human behavior is to be explained with reference to external physical stimuli, responses, the history of learning and a schedule of reinforcement.
 
@@ -38,6 +38,6 @@ o explain human and animal behavior in terms of external physical stimuli, respo
 
 ## Other approaches to defining mental grammar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTE0MTQzMCwtMjE0MDQxOTExLDIxMj
+eyJoaXN0b3J5IjpbLTkxNzYwMzk1OCwtMjE0MDQxOTExLDIxMj
 kzNTM1MjAsMTI0NzA1NTg4NF19
 -->
