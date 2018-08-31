@@ -14,7 +14,8 @@ The linguist Leonard Bloomfield sketched the following account of learning in th
 
 >The habit of saying `da` at the sight of a doll gives rise to further habits. Suppose, for instance, that day affer day the child is given his doll (and says `da da da`) immediately after his bath. He has the habit of saying `da da` after his bath; that is, if one day the mother forgets to give him the doll, he may nevertheless cry `da da da` after his bath ... If he says `da da` well enough his elders understand him; that is, they give him his doll. ... In short, his more perfect attempts at speech are likely to be fortified by repetition, and his failures to be wiped out in confusion. At a much later stage, if he says, `Daddy bringed it`, he merely gets a disappointing answer such `No! You must say Daddy brought it`. But if he says `Daddy brought it`, he is likely to hear the form over again: `Yes, Daddy brought it`, and to get a favorable practical response.
 
-This sketch of how a child learns words, and larger expressions, is a thoroughly-going **behaviorist** account. We will spend some time learning about behaviorism later in the course -- and particularly how some developments in linguistics upset it as the dominant paradigm in American psychology. But a key tenet is plain in Bloomfield: particular verbal behaviors are shaped via reward and punishment (bringing the doll $\checkmark$reward!; a disappointment answer? $\bomb$
+This sketch of how a child learns words, and larger expressions, is a thoroughly-going **behaviorist** account. We will spend some time learning about behaviorism later in the course -- and particularly how some developments in linguistics upset it as the dominant paradigm in American psychology. But a key tenet is plain in Bloomfield: particular verbal behaviors are shaped via reward and punishment (bringing the doll $\checkmark$ reward!; a disappointment answer? $\times$ punishment)
+
 How _accurate_ do you you think Bloomfield's account could be?
 
  is that what we call learning is really the shaping of our responses 
@@ -41,6 +42,6 @@ o explain human and animal behavior in terms of external physical stimuli, respo
 
 ## Other approaches to defining mental grammar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDIxOTQyNCw0MTYyOTA5NjAsLTIxND
+eyJoaXN0b3J5IjpbLTc4NTEwMjI2OCw0MTYyOTA5NjAsLTIxND
 A0MTkxMSwyMTI5MzUzNTIwLDEyNDcwNTU4ODRdfQ==
 -->
