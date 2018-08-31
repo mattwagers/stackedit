@@ -6,7 +6,7 @@ Lenneberg
 
 ### Resilience
 
-Language is a remarkably *resilient* trait
+Language is a remarkably *resilient* human ability. All over the globe humans from vastly different social and cultural backgrounds successfully learn language as children -- and they follow largely the same 
 
 #### To neurological diversity
 
@@ -44,7 +44,7 @@ o explain human and animal behavior in terms of external physical stimuli, respo
 
 ## Other approaches to defining mental grammar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc5MzU4MjAsLTM5MjE4NzczMCw0MT
-YyOTA5NjAsLTIxNDA0MTkxMSwyMTI5MzUzNTIwLDEyNDcwNTU4
-ODRdfQ==
+eyJoaXN0b3J5IjpbNzUxNzY0OTA0LC0zOTIxODc3MzAsNDE2Mj
+kwOTYwLC0yMTQwNDE5MTEsMjEyOTM1MzUyMCwxMjQ3MDU1ODg0
+XX0=
 -->
