@@ -16,7 +16,8 @@ The linguist Leonard Bloomfield sketched the following account of learning in th
 
 This view on how a child might learn words or larger expressions is a thoroughly-going **behaviorist** account:
 
-*[behaviorism]: Behaviorism is a way of doing psychology in which animal or human behavior is to be explained with reference to external physical stimuli, responses, and rei
+*[behaviorist]: Behaviorism is a way of doing psychology in which animal or human behavior is to be explained with reference to external physical stimuli, responses, the history of learning and a schedule of reinforcement.
+
 o explain human and animal behavior in terms of external physical stimuli, responses, learning histories, and (for certain types of behavior) reinforcements. Psychological behaviorism is present in the work of Ivan Pavlov (1849–1936), Edward Thorndike (1874–1949), as well as Watson. Its fullest and most influential expression is B. F. Skinner's work on schedules of reinforcement.
 
 ### A critical period
@@ -37,6 +38,6 @@ o explain human and animal behavior in terms of external physical stimuli, respo
 
 ## Other approaches to defining mental grammar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzM3OTM0MywtMjE0MDQxOTExLDIxMj
+eyJoaXN0b3J5IjpbMTcyNTE0MTQzMCwtMjE0MDQxOTExLDIxMj
 kzNTM1MjAsMTI0NzA1NTg4NF19
 -->
